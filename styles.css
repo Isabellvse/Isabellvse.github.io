@@ -16,7 +16,32 @@ body {
 h1, h2, h3 {
   margin: 40px 0 20px;
   font-weight: bold;
+  letter-spacing: 0px;
 }
 
 h1 { font-size: 2rem; }
 h2 { font-size: 1.5rem; }
+
+/* Retro boxed navigation */
+.custom-nav {
+  display: inline-block;
+  border: 1px solid #313338;
+  margin-bottom: 60px;
+}
+
+.custom-nav a {
+  display: block;
+  padding: 5px 20px;
+  text-decoration: none;
+  color: #313338;
+  border-bottom: 1px solid #313338;
+}
+
+/* Remove bottom border on last item */
+.custom-nav a:last-child {
+  border-bottom: none;
+}
+
+.custom-nav a:hover {
+  background-color: #e8e4da;
+}

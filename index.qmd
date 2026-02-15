@@ -1,7 +1,9 @@
 ---
-title: "Isabellvse.github.io"
+title: "Isabell Victoria Strandby Ernst"
 ---
 
-This is a Quarto website.
+<nav class="custom-nav">
+  <a href="myart.html">Artwork</a>
+  <a href="about.html">About</a>
+</nav>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
