@@ -6,6 +6,9 @@ body {
   color: #111;
   letter-spacing: 0.5px;
   line-height: 1.8;
+  max-width: 800px;
+  margin: 80px auto;
+  padding: 0 20px;
 }
 
 /* Make headings slightly larger */
