@@ -6,4 +6,3 @@ title: "Isabell Victoria Strandby Ernst"
   <a href="myart.html">Artwork</a>
   <a href="about.html">About</a>
 </nav>
-
