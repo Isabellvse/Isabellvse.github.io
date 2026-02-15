@@ -4,18 +4,10 @@ project:
 
 website:
   title: "Isabell Victoria Strandby Ernst"
-  navbar:
-    left:
-      - text: Home
-        href: index.qmd
-      - text: About
-        href: about.qmd
-      - text: My Art
-        href: myart.qmd
 
 format:
   html:
-    theme: minimal
+    theme: none
     css: styles.css
     toc: false
 

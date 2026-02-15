@@ -1,9 +1,10 @@
 /* css styles */
+/* Base layout */
 body {
   font-family: "Courier New", Courier, monospace;
   font-size: 1rem;
   background-color: #f4f1ea;
-  color: #111;
+  color: #313338;
   letter-spacing: 0.5px;
   line-height: 1.8;
   max-width: 800px;
@@ -11,13 +12,11 @@ body {
   padding: 0 20px;
 }
 
-/* Make headings slightly larger */
-h1 {
-  font-size: 2rem;
-  font-weight: bolder;
-}
-
-h2 {
-  font-size: 1.5rem;
+/* Headings */
+h1, h2, h3 {
+  margin: 40px 0 20px;
   font-weight: bold;
 }
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
