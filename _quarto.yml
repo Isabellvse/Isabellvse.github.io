@@ -15,11 +15,9 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: none
     css: styles.css
-    toc: true
+    toc: false
 
 
 
