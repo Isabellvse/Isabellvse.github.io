@@ -10,7 +10,7 @@ title: "Isabell Victoria Strandby Ernst"
 </nav>
 
 <div class="home-content">
-  <h2>Welcome to my personal website!</h2>
+  <h1>Welcome to my personal website!</h1>
   <p>This is a site where I share my artwork and research.</p>
 </div>
 
